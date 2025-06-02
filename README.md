@@ -43,7 +43,7 @@ Google Analytics Sample Sessions (BigQuery Public Dataset):
 
 ---
 
-## 🏆 Model Results
+##  Model Results
 
 | Model | Accuracy | ROC AUC | Precision (Class 1) | Recall (Class 1) | F1-score (Class 1) |
 |-------|----------|---------|--------------------|-----------------|-------------------|
