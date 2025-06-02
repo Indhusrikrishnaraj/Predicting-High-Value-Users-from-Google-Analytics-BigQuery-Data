@@ -43,14 +43,13 @@ Google Analytics Sample Sessions (BigQuery Public Dataset):
 
 ---
 
-##  Model Results
+## 🏆 Model Results
 
-| Model | ROC AUC | Precision | Recall | F1-score |
-|-------|---------|-----------|--------|----------|
-| RandomForest | ~0.85 | varies | varies | varies |
-| XGBoost | ~0.86 | varies | varies | varies |
+| Model | Accuracy | ROC AUC | Precision (Class 1) | Recall (Class 1) | F1-score (Class 1) |
+|-------|----------|---------|--------------------|-----------------|-------------------|
+| RandomForest | 98% | 0.999 | 1.00 | 0.89 | 0.94 |
+| XGBoost      | 97% | 0.998 | 0.95 | 0.91 | 0.93 |
 
-(Note: Exact results will vary slightly with each run — refer to notebook outputs!)
 
 ---
 
